@@ -1,6 +1,6 @@
 const elvenShieldRecipe = {
     leatherStrips: 2,
-    iroIngot: 1,
+    ironIngot: 1,
     refinedMoonstone: 4
 }
 
